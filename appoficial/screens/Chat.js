@@ -110,6 +110,8 @@ const styles = StyleSheet.create({
   response: {
     fontSize: 16,
     marginTop: 10,
+    height: '50%',
+    width: '100%',
   },
   menuContainer: {
     flexDirection: 'row',

@@ -7,7 +7,7 @@ const axios = require('axios');
 
 const app = express();
 const port = 3000;
-const OPENROUTER_API_KEY = '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';
+const OPENROUTER_API_KEY = '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';
 
 
 app.use(cors());
